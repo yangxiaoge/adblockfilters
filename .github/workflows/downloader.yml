@@ -40,8 +40,8 @@ jobs:
           else
             echo "::set-output name=status::success"
             git add .
-            git config --local user.email "217heidai@gmail.com"
-            git config --local user.name "217heidai"
+            git config --local user.name "github-actions[bot]"
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "Updated at $(date)" -a
           fi
             
@@ -49,7 +49,7 @@ jobs:
         if: steps.commit.outputs.status == 'success' && !cancelled()
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_TOKEN }}
           branch: ${{ github.ref }}
           
       - name: Delete Workflow Runs
