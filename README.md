@@ -22,3 +22,4 @@
 | 1024 hosts | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/1024_hosts.txt) | 2023/06/07 |
 | ad-wars hosts | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/ad-wars_hosts.txt) | 2023/06/07 |
 | StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2023/06/07 |
+| I don’t care about cookies | [原始链接](https://www.i-dont-care-about-cookies.eu/abp) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/I_don’t_care_about_cookies.txt) | 2023/06/09 |
