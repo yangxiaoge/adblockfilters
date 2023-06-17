@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: V2SwHTk7HMdjD0j2SluM3g
+! Checksum: XAR0zRRCpCfETanXo7TcSQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Version: 2023-06-16 20:12:12(GMT+8) 
-! Total count: 86588
+! Version: 2023-06-17 09:04:46(GMT+8) 
+! Total count: 86611
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||0-000.store^
@@ -11072,7 +11072,6 @@
 ||app.getgigl.com^
 ||app.getmiles.com^
 ||app.getplayground.com^
-||app.getresponse.com^
 ||app.getselect.co^
 ||app.getsentry.com^
 ||app.getwoohoo.com^
@@ -16061,6 +16060,7 @@
 ||brojwaozvgib.com^
 ||brokeloy.com^
 ||broker.datazoom.io^
+||brokerspock.com^
 ||brokertraffic.com^
 ||brokking.fr^
 ||brominewf.guru^
@@ -16939,6 +16939,7 @@
 ||camakaroda.com^
 ||camarketing.allegion.com^
 ||camarondo.com^
+||camberchimp.com^
 ||cambiaupblaze.uno^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
@@ -21103,6 +21104,7 @@
 ||crane.maggsgroup.com^
 ||crane.thegardenroomguide.co.uk^
 ||crane.trescolori.cloud^
+||cranialjehu.com^
 ||crankyderangeabound.com^
 ||crash-tesla.com^
 ||crash-tesla.org^
@@ -21984,6 +21986,7 @@
 ||dable.io.edgekey.net^
 ||dable.io^
 ||dabletoverdid.space^
+||daccp.cn^
 ||daccroi.com^
 ||dacedsfa.cn^
 ||dacmaiss.com^
@@ -24441,6 +24444,7 @@
 ||dcf438349c.com^
 ||dcfnihzg81pa.com^
 ||dchoseitfromt.com.ua^
+||dciep.xyz^
 ||dckifhpovvbpb.com^
 ||dckquo.holzprofi24.de^
 ||dclk.themarker.com^
@@ -24699,6 +24703,7 @@
 ||defyraspypuke.com^
 ||degaswassail.website^
 ||degeronium.com^
+||deggerfletton.com^
 ||degh48.fnac.com^
 ||degmfmog.xyz^
 ||degrainbro.website^
@@ -30257,6 +30262,7 @@
 ||felzfr.xyz^
 ||femald.com^
 ||female-v.1.p2l.info^
+||female.0.0partner.tagscreator.com^
 ||femalecozy.com^
 ||femefaih.com^
 ||femin.online^
@@ -33921,6 +33927,7 @@
 ||grayreceipt.com^
 ||grayrecruitbrainwash.com^
 ||grc2.secureforms.mcafee.com^
+||grduswfx.com^
 ||greasegarden.com^
 ||greasemotion.com^
 ||greasypalm.com^
@@ -34464,6 +34471,7 @@
 ||habusima.uno^
 ||habyc.com^
 ||hacbfyvvsw.com^
+||hacde6.icu^
 ||hackconsole.fr^
 ||hackeraa.xyz^
 ||hackerz.ir^
@@ -39140,6 +39148,7 @@
 ||jbcam.cz^
 ||jbcapsforum.tk^
 ||jbezdi.ilsole24ore.com^
+||jbhhxd.xyz^
 ||jbkmskjeaevkne.xyz^
 ||jbm6c54upkui.com^
 ||jbnmuye.cn^
@@ -42026,6 +42035,7 @@
 ||lh54.top^
 ||lhare.xyz^
 ||lhcivu.dekbed-discounter.nl^
+||lhdlbp.xyz^
 ||lhiarfocjo.com^
 ||lhippac.cn^
 ||lhmos.com^
@@ -43669,6 +43679,7 @@
 ||lrzsksw.cn^
 ||ls.hongaries.com^
 ||lsad.net^
+||lsancil.top^
 ||lsassoc.com^
 ||lsbebm.xyz^
 ||lscckgm.cn^
@@ -47714,6 +47725,7 @@
 ||mhmp.bruker.com^
 ||mhsksgj.cn^
 ||mhslbgk.cn^
+||mhysbwo.xyz^
 ||mi-de-ner-nis3.info^
 ||mi.5.p2l.info^
 ||mi.miliboo.be^
@@ -49533,6 +49545,7 @@
 ||nahsfl.xyz^
 ||nai7.xyz^
 ||naiadsystems.com^
+||naicoapt.com^
 ||naigristoa.com^
 ||naiki.top^
 ||nairapp.com^
@@ -51587,6 +51600,7 @@
 ||oimsgad.qq.com^
 ||oimzak.xyz^
 ||oinjkenwok.xyz^
+||oinkedbowls.com^
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
 ||ointmentaloofpincers.com^
@@ -53402,6 +53416,7 @@
 ||papilio3glauecus.com^
 ||pappagallu.onefootball.com^
 ||pappibottoms.website^
+||papposeclingy.com^
 ||parableconverted.com^
 ||parachuteeffectedotter.com^
 ||paradisemall.net^
@@ -62718,6 +62733,7 @@
 ||server10.opentracker.net^
 ||server11.opentracker.net^
 ||server2.mediajmp.com^
+||server44.-v.1.p2l.info^
 ||server821.com^
 ||serveraddr.service.kugou.com^
 ||serverads.net^
@@ -63328,6 +63344,7 @@
 ||si1ef.com^
 ||siamzone.com^
 ||siberiabecrush.com^
+||sibylsported.com^
 ||sicas.ikea.net^
 ||siccash.com^
 ||sicentlife.com^
@@ -73854,6 +73871,7 @@
 ||todayresearch.com^
 ||todaysbestsellers.com^
 ||toddlershood.shop^
+||toddydelayer.com^
 ||todhamilton.pro^
 ||toeapesob.com^
 ||toecircle.com^
@@ -76785,6 +76803,7 @@
 ||tracking.vht.com.vn^
 ||tracking.vid4u.org^
 ||tracking.vietbao.vn^
+||tracking.viewlift.com^
 ||tracking.viewster.com^
 ||tracking.virginmediao2business.co.uk^
 ||tracking.virtus.com^
@@ -77890,7 +77909,6 @@
 ||turdgasm.com^
 ||turdsarnatta.com^
 ||turfedtaboret.com^
-||turfoma.0.0videos.fleshlight.com^
 ||turfomani.fr^
 ||turifb.xyz^
 ||turkey.docsy.cloud^
@@ -79073,6 +79091,7 @@
 ||urmavite.com^
 ||urmilan.info^
 ||urogramredfins.com^
+||urotoxykerch.com^
 ||urr.kumamoto-food.com^
 ||urryjgwqjo.com^
 ||urs.metacritic.com^
@@ -81739,6 +81758,7 @@
 ||whnoxcmxgbqrq.xyz^
 ||who.nie.easebar.com^
 ||whoachoh.com^
+||whoajeex.xyz^
 ||whoalsos.com^
 ||whoapsoo.com^
 ||whoavaud.net^
@@ -83126,7 +83146,6 @@
 ||www.me1294hlx.com^
 ||www.media-motor.com^
 ||www.mediaedge-info.com^
-||www.medical-ofni.fr^
 ||www.mediwebinars.com^
 ||www.medtronicsolutions.com^
 ||www.megacounter.de^
@@ -84061,6 +84080,7 @@
 ||xiongyin.com^
 ||xiongzhangad.com^
 ||xip.io^
+||xipaaqgnrehpdns.com^
 ||xiqvza.dickblick.com^
 ||xiryrnrz.com^
 ||xissidearm.com^
@@ -84614,6 +84634,7 @@
 ||xtremeserve.xyz^
 ||xtremetop100.com^
 ||xttaff.com^
+||xtvhkbqmhqu.xyz^
 ||xtxa.net^
 ||xtygfksar.xyz^
 ||xtyovvojltfo.com^
@@ -84704,6 +84725,7 @@
 ||xxecldsp.xyz^
 ||xxgslt.com^
 ||xxguan.cn^
+||xxhp2iz.icu^
 ||xxjiqg.oysho.com^
 ||xxlargepop.com^
 ||xxlefq.commentcamarche.net^
@@ -85812,6 +85834,7 @@
 ||zatong.icaniwill.se^
 ||zaubanel.com^
 ||zauglomo.net^
+||zauglust.net^
 ||zaumaico.com^
 ||zaupjw.xyz^
 ||zausosti.net^
