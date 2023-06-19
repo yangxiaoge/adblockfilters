@@ -35,7 +35,7 @@ def GetRuleList(fileName):
 def CreatReadme(ruleList, fileName):
     if os.path.exists(fileName):
         os.remove(fileName)
-    
+
     f = open(fileName, 'a')
     f.write("# AdBlock DNS Filters\n")
     f.write("适用于AdGuard的去广告合并规则，每8个小时更新一次。\n")
@@ -44,6 +44,8 @@ def CreatReadme(ruleList, fileName):
     f.write("- [原始链接](https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)\n")
     f.write("- [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)\n")
     f.write("## 规则源\n")
+    f.write("> Blocked domains: %s"%(len(blockList)))
+    f.write("  unBlocked domains: %s\n"%(len(unblockList)))
     f.write("1. 不再引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。\n")
     f.write("\n")
     f.write("| 规则 | 原始链接 | 加速链接 | 更新日期 |\n")
@@ -107,7 +109,7 @@ def Entry():
         CreatFiters(blockList, unblockList, pwd + '/rules/adblockfilters.txt')
 
         # 更新README.md
-        CreatReadme(ruleList, pwd + '/README.md')
+        CreatReadme(blockList, unblockList, ruleList, pwd + '/README.md')
 
 if __name__ == '__main__':
     Entry()
