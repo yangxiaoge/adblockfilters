@@ -32,7 +32,7 @@ def GetRuleList(fileName):
                         ruleList.append([rule[0], url, rule[3]])
     return ruleList
 
-def CreatReadme(ruleList, fileName):
+def CreatReadme(blockList, unblockList, ruleList, fileName):
     if os.path.exists(fileName):
         os.remove(fileName)
 
