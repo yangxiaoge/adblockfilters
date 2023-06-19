@@ -5,7 +5,6 @@
 - [原始链接](https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 - [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 ## 规则源
-> Blocked domains: 1965947  unBlocked domains: 11478
 1. 不再引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。
 
 | 规则 | 原始链接 | 加速链接 | 更新日期 |
