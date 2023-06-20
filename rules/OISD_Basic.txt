@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202306200034
+! Version: 202306200812
 ! Description: Block. Don't break.
 ! Title: oisd small
-! Last modified: 2023-06-20T00:34:35+0000
+! Last modified: 2023-06-20T08:12:49+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                                  
@@ -1321,7 +1321,6 @@
 ||5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com^
 ||5c4a902f7e.com^
 ||5c577fc74618431b.com^
-||5c58619ab5.com^
 ||5c7d9.v.fwmrm.net^
 ||5c8877b0af.com^
 ||5c8ac0803b.com^
@@ -1575,7 +1574,6 @@
 ||78dx8t.com^
 ||78tdd75.com^
 ||79181531227.com^
-||79a57367fd.com^
 ||79c4215c89.com^
 ||79cedd0043.com^
 ||79k52baw2qa3.com^
@@ -2721,7 +2719,6 @@
 ||ad.24h.com.vn^
 ||ad.52av.one^
 ||ad.52av.tv^
-||ad.71i.de^
 ||ad.a8.net^
 ||ad.abema.io^
 ||ad.about.co.kr^
@@ -10233,7 +10230,6 @@
 ||byuibyuidev.112.2o7.net^
 ||byuibyuiedu.112.2o7.net^
 ||byuidaho.112.2o7.net^
-||byvammyazlwwv.top^
 ||byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com^
 ||byyanmaor.com^
 ||byzgoso.ru^
@@ -10929,7 +10925,6 @@
 ||cdn-b.notsy.io^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-cf.postitial.com^
-||cdn-controltag.krxd.net^
 ||cdn-d.amazon-adsystem.com^
 ||cdn-fastcounter.de^
 ||cdn-fastly-002.traffic-director-alias.krxd.net^
@@ -18425,7 +18420,6 @@
 ||februaryinjectionproudly.com^
 ||februarynip.com^
 ||februaryreductionapplet.com^
-||fecerismasker.com^
 ||fedcaperg.com^
 ||federalcertainty.com^
 ||fedex.demdex.net^
@@ -19891,7 +19885,6 @@
 ||geezersrecusal.website^
 ||geggeewrossle.com^
 ||geico.demdex.net^
-||geiod.xyz^
 ||gejeegho.net^
 ||gejulm1314.com^
 ||gekko.spiceworks.com^
@@ -24079,7 +24072,6 @@
 ||jehobsee.com^
 ||jehudf.com^
 ||jeidd.xyz^
-||jekmmlwnyznww.top^
 ||jelfmtsr5i.ru^
 ||jellifytayer.com^
 ||jelllearnedhungry.com^
@@ -24946,7 +24938,6 @@
 ||kjos.vo.llnwd.net^
 ||kjsvvnzcto.com^
 ||kju369.cn^
-||kk.tacklerloin.com^
 ||kkbd.adj.st^
 ||kkeu.122.207.net^
 ||kkmacsqsbf.info^
@@ -25648,7 +25639,6 @@
 ||legikqw6ps.com^
 ||leginsi2leopard1oviy1hf.com^
 ||legnaush.com^
-||legpullbetorn.com^
 ||legrah.com^
 ||legrea.com^
 ||lehebraverooper.xyz^
@@ -26095,7 +26085,6 @@
 ||lnbswijsipf.com^
 ||lndonclkds.com^
 ||lngqihywq.com^
-||lnjmaymlmnemz.top^
 ||lnk8j7.com^
 ||lnkd.demdex.net^
 ||lnkfast.com^
@@ -26962,7 +26951,6 @@
 ||m.xrum.info^
 ||m.zedcdn.me^
 ||m.zineworm.com^
-||m03dv.xyz^
 ||m0hcppadsnq8.com^
 ||m1.27com.com^
 ||m1.2mdn.net^
@@ -29071,7 +29059,6 @@
 ||mugweedafloat.guru^
 ||muhobbab.com^
 ||mujilora.com^
-||mujkdna.xyz^
 ||mule.caddyserver.com^
 ||mule.pricelessai.com^
 ||mule.reel.so^
@@ -29434,7 +29421,6 @@
 ||narenrosrow.com^
 ||narepuewrwq.info^
 ||narkalignevil.com^
-||narrateharmala.com^
 ||narwhal.bounty.studio^
 ||nasalburglarthomas.com^
 ||nascardigitalmediallc.demdex.net^
@@ -40696,7 +40682,6 @@
 ||swsoft.122.2o7.net^
 ||swtkc.cn^
 ||swtkes.com^
-||swulxbfpefunrm.com^
 ||swunge.com^
 ||swungencetacea.website^
 ||swwpush.com^
@@ -40929,6 +40914,7 @@
 ||tabun.net^
 ||tabutelei.guru^
 ||tacananbouffon.com^
+||tacklerloin.com^
 ||tacomaequiv.com^
 ||tacool.com^
 ||tacticmuseumbed.com^
@@ -43692,7 +43678,6 @@
 ||ui.videojav.com^
 ||uidsync.net^
 ||uie.data.cbc.ca^
-||uifyeldt.top^
 ||uigruwtql.com^
 ||uim.adition.com^
 ||uimserv.net^
@@ -45141,7 +45126,6 @@
 ||vserv.mobi^
 ||vst.dfn-network.pro^
 ||vstats.net^
-||vstgqjeawxn.com^
 ||vstvstsa.com^
 ||vstvstsaq.com^
 ||vstvstssa.com^
