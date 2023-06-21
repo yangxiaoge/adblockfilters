@@ -1490,6 +1490,7 @@ $script,third-party,denyallow=bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cl
 !
 !
 !
+naifei.im##div[class^="wp-none"]
 cloud.tencent.com##.mod-commercial
 pc.yiyouliao.com##.yyl-weiruan-ads-swiper
 ||z4a.net^$domain=9xav.cc
@@ -5742,6 +5743,12 @@ newduba.cn###jq_youxi
 ||jvljnb.xyz^
 ||mbekgac.xyz^
 ||lzfzkedp.icu^
+||iuu3j.xyz^
+||kzuxlydg.icu^
+||heioa.xyz^
+||zppfjh.xyz^
+||cifyeldf.top^
+||ymhyw6.lol^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
