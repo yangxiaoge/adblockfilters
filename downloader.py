@@ -1,60 +1,49 @@
 import os
-import hashlib
+import re
+import base64
+import datetime
 import requests
 
-class Downloader(object):
-    def __init__(self, fileName, url):
-        self.__fileName = fileName
-        self.__fileName_download = self.__fileName + '.download'
-        self.__url = url
 
-    def __CalcFileSha256(self, filename):
-        with open(filename, "rb") as f:
-            sha256obj = hashlib.sha256()
-            sha256obj.update(f.read())
-            hash_value = sha256obj.hexdigest()
-            return hash_value
+# 创建文件夹
+if not os.path.exists("tvbox"):
+    os.mkdir("tvbox")
+# tvbox源（TV软件下载地址：https://github.com/FongMi/TV）
 
-    def Download(self):
-        def isConfigFile(filename):
-            filestats = os.stat(filename)
-            #print(f'File Size in Bytes is {filestats.st_size}')
-            if filestats.st_size < 1024 * 6:
-                return False
-            return True
-        
-        isNeedUpdate = False
-        try:
-            if os.path.exists(self.__fileName_download):
-                os.remove(self.__fileName_download)
-            
-            r = requests.get(self.__url) 
-            with open(self.__fileName_download,'wb') as f:
-                f.write(r.content)
-            
-            if not isConfigFile(self.__fileName_download):
-                return False
+def httpGetText(url):
+    try:
+        req = requests.get(url, verify=False)
+        if req.status_code == 200:
+            return req.text
+    except Exception as e:
+        print(f'httpGetText failed: %s' % (e))
 
-            if os.path.exists(self.__fileName):
-                sha256Old = self.__CalcFileSha256(self.__fileName)
-                sha256New = self.__CalcFileSha256(self.__fileName_download)
-                if sha256New != sha256Old:
-                    os.remove(self.__fileName)
-                    os.rename(self.__fileName_download, self.__fileName)
-                    isNeedUpdate = True
-                os.remove(self.__fileName_download)
-            else:
-                os.rename(self.__fileName_download, self.__fileName)
-                isNeedUpdate = True
-        except Exception as e:
-            print(f'%s download failed: %s' % (os.path.basename(self.__fileName), e))
-        finally:
-            return isNeedUpdate
 
-if __name__ == '__main__':
-    pwd = os.getcwd()
-    file = pwd + '/rules/neodev_hosts.txt'
-    url = 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/host'
-    downloader = Downloader(file, url)
-    if downloader.Download():
-        print('need update')
+# 源3 FongMi config
+result = httpGetText('https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json')
+if result:
+    fp = open("tvbox/fongmi_config.json", "w+", encoding='utf-8')
+    # print("----" + result)
+    fp.write(result)
+    fp.close()
+ 
+# 源4 FongMi 18+
+result = httpGetText('https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json')
+if result:
+    fp = open("tvbox/fongmi_adult.json", "w+", encoding='utf-8')
+    # print("----" + result)
+    fp.write(result)
+    fp.close()
+    
+# 源5 唐三
+result = httpGetText('https://gh.t4tv.hz.cz/newtang.bmp')
+if result:
+    result = re.findall('(?<=\*\*).*$', result)[0]
+    # print(result)
+    # Decode
+    result = base64.b64decode(result).decode('utf-8')
+    print(result)
+    fp = open("tvbox/tangsan", "w+", encoding='utf-8')
+    # print("----" + result)
+    fp.write(result)
+    fp.close()
