@@ -2,7 +2,7 @@
 适用于AdGuard的去广告合并规则，每8个小时更新一次。
 个人收藏了不少广告过滤规则，但是每次往新设备添加的时候很是头疼，于是写了这个项目，定时自动获取各规则源更新，生成合并规则库。
 ## 订阅链接
-> Blocked domains: 1825761  unBlocked domains: 11516
+> Blocked domains: 1827076  unBlocked domains: 11529
 - [原始链接](https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 - [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 ## 规则源
@@ -22,5 +22,5 @@
 | Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/Notracking_blocklist.txt) | 2023/06/27 |
 | 1024 hosts | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/1024_hosts.txt) | 2023/06/07 |
 | ad-wars hosts | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/ad-wars_hosts.txt) | 2023/06/07 |
-| StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2023/07/28 |
+| StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2023/08/02 |
 | I don’t care about cookies | [原始链接](https://www.i-dont-care-about-cookies.eu/abp) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/I_don’t_care_about_cookies.txt) | 2023/07/31 |
