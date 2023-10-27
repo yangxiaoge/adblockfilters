@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202310261610
+! Version: 202310270005
 ! Title: oisd small
 ! Description: Block. Don't break.
-! Last modified: 2023-10-26T16:10:30+0000
+! Last modified: 2023-10-27T00:05:48+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -175,6 +175,7 @@
 ||11235813.webzdarma.cz^
 ||1125096520.rsc.cdn77.org^
 ||1158tp.com^
+||1172011200.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1191084008.rsc.cdn77.org^
 ||11askdnalsd11.monster^
@@ -246,6 +247,7 @@
 ||180searchassistant.com^
 ||1819289999.rsc.cdn77.org^
 ||181m2fscr.de^
+||1830447531.rsc.cdn77.org^
 ||1834979659.rsc.cdn77.org^
 ||184c4i95p.de^
 ||1873083787.rsc.cdn77.org^
@@ -1069,6 +1071,7 @@
 ||99888aaa.com^
 ||9996777888.com^
 ||99997aaa.com^
+||999aa666bb.com^
 ||999pro.top^
 ||999webdesign.com^
 ||999zz333zz.com^
@@ -3404,6 +3407,7 @@
 ||adx.kul.vn^
 ||adx.opera.com^
 ||adx.phunuadong.vn^
+||adx.promo^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||adx1.com^
@@ -4026,6 +4030,7 @@
 ||alkpuslwakc.com^
 ||alkqryamjo.com^
 ||alkylichauyne.digital^
+||all-audio.pro^
 ||all-ti-cod.com^
 ||all2cnjuh34jb.com^
 ||all4spy.com^
@@ -5814,6 +5819,7 @@
 ||avouse.com^
 ||avowappear.com^
 ||avpayments.com^
+||avplwte.xyz^
 ||avppuqrudc.com^
 ||avprotect.store^
 ||avramstroy.ru^
@@ -11021,6 +11027,7 @@
 ||d1f1lqyq09pe4q.cloudfront.net^
 ||d1f52ha44xvggk.cloudfront.net^
 ||d1f5rbi95y1icu.cloudfront.net^
+||d1f7vr2umogk27.cloudfront.net^
 ||d1f94w321xtzmt.cloudfront.net^
 ||d1f9tkqiyb5a97.cloudfront.net^
 ||d1fc8wv8zag5ca.cloudfront.net^
@@ -12074,6 +12081,7 @@
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddhjxakewpp.com^
 ||ddjagedfbifdfejagaca.world^
+||ddkh59.com^
 ||ddla593ymz72o.cloudfront.net^
 ||ddlh1467paih3.cloudfront.net^
 ||ddlipf.xyz^
@@ -12494,6 +12502,7 @@
 ||dexylv.xyz^
 ||deyubo.uno^
 ||dezstd.xyz^
+||df-long.cn^
 ||df.tanx.com^
 ||df0pmigc8xs70.cloudfront.net^
 ||df80k0z3fi8zg.cloudfront.net^
@@ -12769,6 +12778,7 @@
 ||disinheritcondescending.com^
 ||dislikesparecandle.com^
 ||disloyalmeddling.com^
+||dismalthroat.pro^
 ||dismantlepenantiterrorist.com^
 ||dismissabuse.com^
 ||dismountroute.com^
@@ -16411,6 +16421,7 @@
 ||fullagearnut.com^
 ||fullssmirker.com^
 ||fulltraffic.net^
+||fullvids.online^
 ||fullvids.space^
 ||fullycoordinatecarbonate.com^
 ||fulmenbosser.com^
@@ -17258,6 +17269,7 @@
 ||gml-grp.com^
 ||gmossp-sp.jp^
 ||gmpatched.tech^
+||gmx43.top^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -17967,6 +17979,7 @@
 ||hainoruz.com^
 ||hairoak.com^
 ||hairpintacticalartsy.com^
+||hairy-level.pro^
 ||haise2.top^
 ||haise6.top^
 ||haithoaz.net^
@@ -18398,6 +18411,7 @@
 ||hethis.com^
 ||hethisisath.xyz^
 ||heukwasanasosett.info^
+||hevc.site^
 ||hewalleges.guru^
 ||hewawkward.com^
 ||hewdisobedienceliveliness.com^
@@ -20232,6 +20246,7 @@
 ||iwistracks.com^
 ||iwpswvi.com^
 ||iwuh.org^
+||iwwdcglj.com^
 ||ix.lithatelamnoid.com^
 ||ix2.deepsexvids.com^
 ||ixbwwwv.com^
@@ -20465,6 +20480,7 @@
 ||jetsowilk.com^
 ||jettrujole.com^
 ||jetx.info^
+||jevwdao.cn^
 ||jewelbeeperinflection.com^
 ||jewelstastesrecovery.com^
 ||jewelyavoir.com^
@@ -20656,6 +20672,7 @@
 ||jouptubegrow.com^
 ||journeyembankmentsubjects.com^
 ||jouteetu.net^
+||jouthee.com^
 ||jouzoapi.com^
 ||jowarblushed.space^
 ||jowlishdiviner.com^
@@ -21725,6 +21742,7 @@
 ||lavando2scas1hh1.com^
 ||lavanetwork.net^
 ||lavatorybrandnew.com^
+||lavatorydownybasket.com^
 ||lavatoryhitschoolmaster.com^
 ||laversleopold.guru^
 ||lavishnessoverboard.com^
@@ -22263,6 +22281,7 @@
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
 ||lmepbq.com^
+||lmfehr.xyz^
 ||lmlmvip.com^
 ||lmlzht.xyz^
 ||lmn-pou-win.com^
@@ -22817,6 +22836,7 @@
 ||lrlsrz.xyz^
 ||lrqpyhn.icu^
 ||lrugxmpxyfb.com^
+||lryqef.xyz^
 ||ls.hongaries.com^
 ||ls.srvcs.tumblr.com^
 ||lsbebm.xyz^
@@ -26024,6 +26044,7 @@
 ||obzthda.xyz^
 ||oc.umeng.com^
 ||oc2tdxocb3ae0r.com^
+||ocalqoiw.com^
 ||ocardoniel.com^
 ||ocarinaboot.xhamster.com^
 ||occame.com^
@@ -29969,6 +29990,7 @@
 ||quoteprocesses.com^
 ||quotes.com^
 ||qurgzubasph.com^
+||quxsiraqxla.com^
 ||quzmtpxw.xyz^
 ||qvikar.com^
 ||qvkjkc.xyz^
@@ -30763,6 +30785,7 @@
 ||rereddit.com^
 ||rergeema.com^
 ||reroplittrewheck.pro^
+||rerpartmentm.info^
 ||res.pinpai8.cn^
 ||res.regoo.com^
 ||resailsgyse.com^
@@ -30952,6 +30975,7 @@
 ||rg.canesbilker.com^
 ||rgentssep.xyz^
 ||rgrd.xyz^
+||rgtcqif.com^
 ||rgvqcsxqge.com^
 ||rgyfqq.com^
 ||rhcknl.xyz^
@@ -32081,6 +32105,7 @@
 ||saucilytalwood.cam^
 ||saucon-sponsors.streetinteractive.com^
 ||saulmy.xyz^
+||saulttrailwaysi.info^
 ||saumeechoa.com^
 ||saumonpipidae.com^
 ||saunafortyeasy.com^
@@ -33019,6 +33044,7 @@
 ||simrubwan.com^
 ||simuld.com^
 ||simultaneouslyagreeingcontradiction.com^
+||sinatraworthy.uno^
 ||sinaunrelean.info^
 ||sincalled.com^
 ||sinceclairvoyant.com^
@@ -33095,6 +33121,7 @@
 ||sjalipa.cn^
 ||sjbaiduadv1.redou.com^
 ||sjjk.ltd^
+||sjkekxjkca.com^
 ||sjomilbedwarf.digital^
 ||sjtactic.com^
 ||sk.tuskersecklein.com^
@@ -35036,6 +35063,7 @@
 ||suxobjjrokh.com^
 ||suxtryawma.com^
 ||suzanne.pro^
+||suzoqz.icu^
 ||suzuhen.xyz^
 ||sv-api-event.headlines.pw^
 ||sv-api-lottery.headlines.pw^
@@ -35153,6 +35181,7 @@
 ||syenitetatler.tech^
 ||syeqhsdrie.top^
 ||syinga.com^
+||syjkscy.cn^
 ||sylmyar.pw^
 ||sylvatealonely.com^
 ||sylverlight.net^
@@ -35589,6 +35618,7 @@
 ||td5xffxsx4.com^
 ||tdavopl.icu^
 ||tddemchenko.info^
+||tdditqosnpeo.com^
 ||tdep.hema.nl^
 ||tdep.kvk.nl^
 ||tdid.m.qq.com^
@@ -35611,6 +35641,7 @@
 ||tearingflickermeaning.com^
 ||tearingreasoningempower.com^
 ||tearpilotzoo.com^
+||tearsincompetentuntidy.com^
 ||teasacomsys.xyz^
 ||teasimilarman.com^
 ||teatycacicus.com^
@@ -35697,6 +35728,7 @@
 ||telwrite.com^
 ||tembetachasmic.guru^
 ||tembetanymil.com^
+||temksrtd.net^
 ||tempbugs.com^
 ||tempeorek.org^
 ||temperacaimans.com^
@@ -37655,6 +37687,7 @@
 ||twovqti.com^
 ||twpasol.com^
 ||twrences.xyz^
+||twrencesprin.info^
 ||twstat.lifenewsjr.com^
 ||twtad.com^
 ||twwp3.top^
@@ -37698,6 +37731,7 @@
 ||tyromasghosted.com^
 ||tyroo.com^
 ||tyrropish.life^
+||tytlementwre.info^
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
 ||tyuetxt.com^
@@ -40216,6 +40250,7 @@
 ||wowlnk.com^
 ||wowreality.info^
 ||wowshortvideos.com^
+||woxwhfdo.xyz^
 ||woymebsi.com^
 ||wp.zvideo.stream^
 ||wpfc.ml^
@@ -40297,6 +40332,7 @@
 ||wt20trk.com^
 ||wt2noay3fgjn.com^
 ||wtbevents.pricespider.com^
+||wtfdontblock.theporndudes.xyz^
 ||wtfgep.xyz^
 ||wtlive.com^
 ||wtrep.xyz^
@@ -40346,7 +40382,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.ddkh59.com^
+||www.z0a1b2c3d4.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -40529,6 +40565,7 @@
 ||xixrdn.xyz^
 ||xizopiwhu.com^
 ||xjfbhxp.com^
+||xjktawqrcaw.com^
 ||xjnyjt.xyz^
 ||xjpsrb.xyz^
 ||xjrwxfdphc.com^
