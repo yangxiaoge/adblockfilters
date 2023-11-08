@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202311071619
+! Version: 202311080006
 ! Title: oisd small
 ! Description: Block. Don't break.
-! Last modified: 2023-11-07T16:19:05+0000
+! Last modified: 2023-11-08T00:06:38+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -5260,7 +5260,6 @@
 ||aschamrotor.live^
 ||ascijingu.space^
 ||ascillsilvia.com^
-||ascillwricht.com^
 ||ascitbhalse.guru^
 ||asclan.icu^
 ||ascomamizzen.com^
@@ -5809,7 +5808,6 @@
 ||azads.com^
 ||azclip.co.ua^
 ||azdadf.com^
-||azdiqsb.cn^
 ||azelaiclawyer.com^
 ||azeriondigital.com^
 ||azfront.com^
@@ -14821,7 +14819,6 @@
 ||eyewonder.com^
 ||eyharae.com^
 ||eyjouer.com^
-||eyjvq.xyz^
 ||eymaume.com^
 ||eymised.com^
 ||eynicit.com^
@@ -17493,7 +17490,6 @@
 ||guardianinvadecrept.com^
 ||gubopedruph.com^
 ||guchihyfa.pro^
-||guddledarride.com^
 ||guerebamediate.com^
 ||guessstartlethrive.com^
 ||guesswhatnews.com^
@@ -20786,7 +20782,6 @@
 ||kistfulmafiosi.space^
 ||kistfulmapach.life^
 ||kistutch.net^
-||kistversets.com^
 ||kitantiterhalac.xyz^
 ||kitchen.juicer.cc^
 ||kitchencafeso.com^
@@ -20844,7 +20839,6 @@
 ||kloynfsag.com^
 ||klsdee.com^
 ||klufjdo.com^
-||klwhuci.cn^
 ||klxwe.xyz^
 ||klyhw.xyz^
 ||kmisln.com^
@@ -37052,7 +37046,6 @@
 ||udmserve.net^
 ||udncoeln.com^
 ||udookrou.com^
-||udpdmeb.cn^
 ||udraokrou.com^
 ||udwgzninhil.com^
 ||uejnmjdpd.xyz^
@@ -38574,7 +38567,6 @@
 ||waspfestivalchampionship.com^
 ||waspishamendbulb.com^
 ||wasqimet.net^
-||wastablrupture.com^
 ||wastedclassmatemay.com^
 ||wastedinvaluable.com^
 ||wastesshimssat.world^
@@ -39536,7 +39528,6 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.gzcxtuxgqjrhz.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -40745,7 +40736,6 @@
 ||znnodl.xyz^
 ||znqip.net^
 ||znrtfj.xyz^
-||znwzcmd.cn^
 ||znyjmbh.icu^
 ||zo6g.top^
 ||zoachoar.net^
