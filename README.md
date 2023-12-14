@@ -2,7 +2,7 @@
 适用于AdGuard的去广告合并规则，每8个小时更新一次。
 个人收藏了不少广告过滤规则，但是每次往新设备添加的时候很是头疼，于是写了这个项目，定时自动获取各规则源更新，生成合并规则库。
 ## 订阅链接
-> Blocked domains: 1614676  unBlocked domains: 11853
+> Blocked domains: 1614878  unBlocked domains: 11856
 - [原始链接](https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 - [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
 ## 规则源
@@ -15,7 +15,7 @@
 | AdGuard Base filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/AdGuard_Base_filter.txt) | 2023/12/14 |
 | AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/AdGuard_Chinese_filter.txt) | 2023/12/14 |
 | AdGuard DNS filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/AdGuard_DNS_filter.txt) | 2023/12/14 |
-| AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2023/12/13 |
+| AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2023/12/14 |
 | Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/Hblock.txt) | 2023/12/13 |
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/NEO_DEV_HOST.txt) | 2023/12/13 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/OISD_Basic.txt) | 2023/12/14 |
