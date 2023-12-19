@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202312181613
+! Version: 202312182129
 ! Title: oisd small
 ! Description: Block. Don't break.
-! Last modified: 2023-12-18T16:13:54+0000
+! Last modified: 2023-12-18T21:29:34+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -5430,7 +5430,6 @@
 ||athvicatfx.com^
 ||aticalfelixstownrus.info^
 ||aticalmaster.org^
-||atimaze.com^
 ||atinsolutions.com^
 ||atinternet.com^
 ||atiretrously.com^
@@ -8197,7 +8196,6 @@
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
 ||cc2.camcaps.io^
-||cc72fceb4f.com^
 ||ccaahdancza.com^
 ||cchdbond.com^
 ||ccjzuavqrh.com^
@@ -8267,7 +8265,6 @@
 ||cdn.house^
 ||cdn.iople.com^
 ||cdn.jampp.com^
-||cdn.jhkfd.com^
 ||cdn.kaizenplatform.net^
 ||cdn.karpatzi.com^
 ||cdn.lodeo.io^
@@ -8281,7 +8278,6 @@
 ||cdn.optmn.cloud^
 ||cdn.optoutadvertising.com^
 ||cdn.pctv.xyz^
-||cdn.piuyt.com^
 ||cdn.pranmcpkx.com^
 ||cdn.raekdata.com^
 ||cdn.rawqel.com^
@@ -19633,7 +19629,6 @@
 ||ixxoo.asia^
 ||iy.secalinonyxis.com^
 ||iy8yhpmgrcpwkcvh.pro^
-||iycacnpyv.com^
 ||iyes.youku.com^
 ||iyfbodn.com^
 ||iyfnz.com^
@@ -19813,7 +19808,6 @@
 ||jennyvisits.com^
 ||jenonaw.com^
 ||jentent.streampiay.fun^
-||jenwyrjbvvlrl.top^
 ||jeopardizeflirting.com^
 ||jeoway.com^
 ||jeperdee.net^
@@ -19867,6 +19861,7 @@
 ||jh16csf.com^
 ||jhat1n4.xhamster.com^
 ||jhfhdkhkh.site^
+||jhkfd.com^
 ||jhkggrr.icu^
 ||jhoncj.com^
 ||jhulubwidas.com^
@@ -26568,7 +26563,6 @@
 ||paujudih.xyz^
 ||paulinruntime.digital^
 ||paulty.com^
-||pausaiverbene.com^
 ||pausingeoedb.com.ua^
 ||pausingeoedwe.xyz^
 ||pavymoieter.com^
@@ -27158,6 +27152,7 @@
 ||pitypericu.com^
 ||pitysuffix.com^
 ||piupiucreed.life^
+||piuyt.com^
 ||pivlzt.xyz^
 ||pivo.tracked.one^
 ||pivotrunner.com^
@@ -39043,8 +39038,6 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.isancio.top^
-||www.lpausaiverbene.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
