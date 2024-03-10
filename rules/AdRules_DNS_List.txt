@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Total count: 136276 
-! Update: 2024-03-10 09:03:13(GMT+8)
+! Total count: 136277 
+! Update: 2024-03-10 09:04:43(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -92372,6 +92372,7 @@
 ||qjoqos.xyz^
 ||qjpotvwljgw.xyz^
 ||qjsknpxwlesvou.com^
+||qjsp48.xyz^
 ||qjukphe.com^
 ||qjurou.laredoute.com^
 ||qjvtofw.com^
