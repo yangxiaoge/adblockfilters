@@ -11,7 +11,6 @@
 | 规则 | 原始链接 | 加速链接 | 更新日期 |
 |:-|:-|:-|:-|
 | 1Hosts (Lite) | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/1Hosts_(Lite).txt) | 2024/03/10 |
-| ADgk | [原始链接](https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/ADgk.txt) | 2023/06/07 |
 | AdGuard Base filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/AdGuard_Base_filter.txt) | 2024/03/11 |
 | AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/AdGuard_Chinese_filter.txt) | 2024/03/11 |
 | AdGuard DNS filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/AdGuard_DNS_filter.txt) | 2024/03/11 |
@@ -19,8 +18,7 @@
 | Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/Hblock.txt) | 2024/03/10 |
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/NEO_DEV_HOST.txt) | 2024/03/10 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/OISD_Basic.txt) | 2024/03/11 |
-| Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/Notracking_blocklist.txt) | 2023/06/27 |
-| 1024 hosts | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/1024_hosts.txt) | 2023/08/31 |
-| ad-wars hosts | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/ad-wars_hosts.txt) | 2023/11/17 |
 | StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/StevenBlack_hosts.txt) | 2024/03/10 |
-| I don’t care about cookies | [原始链接](https://www.i-dont-care-about-cookies.eu/abp) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/I_don’t_care_about_cookies.txt) | 2023/12/14 |
+| EasyList | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylist.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList.txt) | 2024/03/11 |
+| EasyList China | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList_China.txt) | 2024/03/11 |
+| EasyPrivacy | filter | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyPrivacy.txt) | 2024/03/11 |
