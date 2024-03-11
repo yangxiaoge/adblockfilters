@@ -4,7 +4,7 @@
 ## 订阅链接
 > Blocked domains: 1725709  unBlocked domains: 11571
 - [原始链接](https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
-- [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/adblockfilters/main/rules/adblockfilters.txt)
+- [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/adblockfilters.txt)
 ## 规则源
 1. 不再引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。
 
