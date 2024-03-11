@@ -19,6 +19,6 @@
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/NEO_DEV_HOST.txt) | 2024/03/10 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/OISD_Basic.txt) | 2024/03/11 |
 | StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/StevenBlack_hosts.txt) | 2024/03/10 |
-| EasyList | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylist.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList.txt) | 2024/03/11 |
-| EasyList China | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList_China.txt) | 2024/03/11 |
-| EasyPrivacy | filter | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyPrivacy.txt) | 2024/03/11 |
+| EasyList | [原始链接](https://easylist-downloads.adblockplus.org/easylist.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList.txt) | 2024/03/11 |
+| EasyList China | [原始链接](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyList_China.txt) | 2024/03/11 |
+| EasyPrivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://cdn.jsdelivr.net/gh/yangxiaoge/adblockfilters@main/rules/EasyPrivacy.txt) | 2024/03/11 |
