@@ -2,8 +2,9 @@ name: Update Filters
 on: 
   push:
     branches: [ main ]
-  schedule:
-  - cron: 0 */8 * * *
+  # 暂停 
+  # schedule:
+  # - cron: 0 */8 * * *
 permissions:
   contents: write
 env:
